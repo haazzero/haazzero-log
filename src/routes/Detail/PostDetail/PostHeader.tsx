@@ -118,6 +118,7 @@ const StyledWrapper = styled.div`
       margin-bottom: 1.75rem;
       border-radius: 1.5rem;
       width: 100%;
+      height: 50%;
       background-color: ${({ theme }) => theme.colors.gray4};
       padding-bottom: 66%;
 
